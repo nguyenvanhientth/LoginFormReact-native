@@ -6,4 +6,4 @@
 #npm react-native run-androi//run-ios<br/>
 #npm install --save  react-native-cli<br/>
 #npm yarn<br/>
-
+<p><img src="images/img_sakura.jpg" alt="Sakura" /></p>
