@@ -6,3 +6,4 @@
 #npm react-native run-androi//run-ios<br/>
 #npm install --save  react-native-cli<br/>
 #npm yarn<br/>
+displayImg.php?url=http://thuthuatweb.net/images/image.jpg
